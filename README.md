@@ -4,7 +4,7 @@
 An executive-grade interactive Power BI dashboard analyzing 55.5K patient admissions across clinical quality, financial performance, and demographics.
 
 ## 🗃️ Dataset
-Downloaded a csv file of healthcare_dataset from kaggle.
+Downloaded a .csv file of healthcare_dataset from kaggle.
 
 ## 💡 Key Insights
 * **Financial Driver:** **Endocrinology** leads hospital revenue, generating **$239M** in total billings.
