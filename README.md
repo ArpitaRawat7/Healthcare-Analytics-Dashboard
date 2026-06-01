@@ -1,5 +1,6 @@
-## 📊 Project Overview
 # Healthcare-Analytics-Dashboard
+
+## 📊 Project Overview
 An executive-grade interactive Power BI dashboard analyzing 55.5K patient admissions across clinical quality, financial performance, and demographics.
 
 ## 🗃️ Dataset
